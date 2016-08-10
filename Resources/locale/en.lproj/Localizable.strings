@@ -1,0 +1,34 @@
+/*
+ english.strings
+ GundemApp
+ 
+ Created by yvzyldrm on 9/24/13.
+ Copyright (c) 2013 yvzyldrm. All rights reserved.
+ */
+
+"ViewTitle" = "News Sources";
+"ListUpdating" = "Updating";
+"DescReadNews" = "Click To Read";
+"DescTitle" = "News";
+"InfoShareText" = "Follow latest news from World with this application. News App Name";
+"WebTitle" = "Web View";
+"SourceTitle" = "News Sources";
+"AddNews" = "%@ New";
+"FailedInternet" = "No Internet!";
+"Failed" = "Update Failed! Try again.";
+"Unsuccessful" = "Error!";
+"Update" = "Update";
+"LastUpdate" = "Last Update %@";
+"Loading" = "Loading";
+"AppName" = "News App Name";
+"Cleaning" = "Clearing";
+"RateButton" = "Rate";
+"ShareButton" = "Share";
+"CleanCache" = "Clear Cache";
+"MoreApps" = "More Apps";
+"Delete" = "Delete";
+"AppDesc" = "Please do not hesitate to email us about your reviews and questions at hello@mywebsite.com\n";
+"InAppName" = "Ad Free Version";
+"BuyState" = "Remove Ads";
+"BuyState2" = "Ad Free Purchased";
+"SelectColor" = "Color Options";

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPFONTNAME</key>
+	<string>OpenSans</string>
+	<key>APPBOLDFONTNAME</key>
+	<string>OpenSans-Bold</string>
+	<key>APPFONTALIGN</key>
+	<string>LEFT</string>
+	<key>ADMOBVIEW</key>
+	<true/>
+	<key>ADMOBKEY</key>
+	<string>ca-app-pub-3813684979634837/9626864704</string>
+	<key>ITUNESLINK</key>
+	<string>https://itunes.apple.com/us/app/itunes-connect/id376771144?mt=8</string>
+	<key>SOURCECUSTOMIZE</key>
+	<true/>
+	<key>ADMOBWEBVIEW</key>
+	<true/>
+	<key>DEFAULTCOLOR</key>
+	<string>#5283A9</string>
+	<key>OPTIONALCOLORS</key>
+	<array>
+		<string>#5283A9</string>
+		<string>#283037</string>
+		<string>#C55186</string>
+		<string>#D74B4B</string>
+		<string>#408F68</string>
+	</array>
+	<key>ONEPAGESETTINGS</key>
+	<dict>
+		<key>OneRSSPage</key>
+		<false/>
+		<key>Item0</key>
+		<dict>
+			<key>Name</key>
+			<string>The West Australian</string>
+			<key>SubName</key>
+			<string>Latest</string>
+			<key>IconName</key>
+			<string>thewestaustralian.ico</string>
+			<key>Url</key>
+			<string>http://feeds.gawker.com/gizmodo/full</string>
+		</dict>
+	</dict>
+	<key>PUSHNOTIFICATION</key>
+	<dict>
+		<key>NOTIFICATION</key>
+		<true/>
+		<key>ONESIGNAL</key>
+		<string>706a69df-aaed-4e8a-b44f-ad3e66701f37</string>
+	</dict>
+</dict>
+</plist>
